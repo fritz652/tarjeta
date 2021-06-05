@@ -1,0 +1,22 @@
+{
+  "name": "tarjeta",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "serve src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fritz652/tarjeta.git"
+  },
+  "author": "Fritz Guzman Santiago",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fritz652/tarjeta/issues"
+  },
+  "homepage": "https://github.com/fritz652/tarjeta#readme",
+  "dependencies": {
+    "serve": "^11.3.2"
+  }
+}
